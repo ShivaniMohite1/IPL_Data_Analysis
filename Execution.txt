@@ -1,0 +1,116 @@
+"C:\Users\Ashwini Girgosavi\AppData\Local\Programs\Python\Python37\python.exe" "C:/Users/Ashwini Girgosavi/OneDrive/Desktop/Amit/331WEAfternoon/13Modules_PIP/IPL_Compiled/MenuDrivenIPL.py"
+===Statistics===
+1. Toss Winning Stats
+2. Yearwise matches played/won
+3. Citywise Matches played/won
+4. Exit
+Enter a choice: 1
+===Select a team===
+1. Sunrisers Hyderabad
+2. Rising Pune Supergiant
+3. Kolkata Knight Riders
+4. Chennai Super Kings
+5. Rajasthan Royals
+6. Royal Challengers Bangalore
+7. Mumbai Indians
+8. Kings XI Punjab
+9. Deccan Chargers
+10. Kochi Tuskers Kerala
+Enter Team Name : 7
+Mumbai Indians
+Total Matches played: 157
+No of times toss won: 85
+Toss winning percentage is 54.14
+===Statistics===
+1. Toss Winning Stats
+2. Yearwise matches played/won
+3. Citywise Matches played/won
+4. Exit
+Enter a choice: 2
+===Select a team===
+1. Sunrisers Hyderabad
+2. Rising Pune Supergiant
+3. Kolkata Knight Riders
+4. Chennai Super Kings
+5. Rajasthan Royals
+6. Royal Challengers Bangalore
+7. Mumbai Indians
+8. Kings XI Punjab
+9. Deccan Chargers
+10. Kochi Tuskers Kerala
+Enter Team Name : 7
+************************************************************
+Mumbai Indians
+    YEAR         MATCHES PLAYED         MATCHES WON
+    2015              16                    10
+    2017              17                    12
+    2013              19                    13
+    2014              15                    7
+    2011              16                    10
+    2012              17                    10
+    2016              14                    7
+    2009              13                    5
+    2008              14                    7
+    2010              16                    11
+************************************************************
+===Statistics===
+1. Toss Winning Stats
+2. Yearwise matches played/won
+3. Citywise Matches played/won
+4. Exit
+Enter a choice: 3
+===Select a team===
+1. Sunrisers Hyderabad
+2. Rising Pune Supergiant
+3. Kolkata Knight Riders
+4. Chennai Super Kings
+5. Rajasthan Royals
+6. Royal Challengers Bangalore
+7. Mumbai Indians
+8. Kings XI Punjab
+9. Deccan Chargers
+10. Kochi Tuskers Kerala
+Enter Team Name : 4
+************************************************************
+Chennai Super Kings
+           CITY         MATCHES PLAYED         MATCHES WON
+                              02                   02 
+         Sharjah              01                   01 
+          Jaipur              04                   02 
+       Cape Town              01                   00 
+          Durban              04                   01 
+            Pune              02                   01 
+    Johannesburg              02                   01 
+       Bangalore              07                   04 
+       Hyderabad              03                   02 
+          Indore              00                   00 
+  Port Elizabeth              02                   02 
+          Mumbai              16                   08 
+       Centurion              03                   02 
+          Nagpur              01                   00 
+       Kimberley              01                   01 
+          Rajkot              00                   00 
+          Kanpur              00                   00 
+          Raipur              01                   00 
+         Chennai              47                   33 
+       Abu Dhabi              02                   01 
+         Kolkata              09                   04 
+   Visakhapatnam              01                   01 
+    Bloemfontein              00                   00 
+           Delhi              06                   05 
+     East London              01                   01 
+      Chandigarh              04                   03 
+          Ranchi              05                   03 
+         Cuttack              01                   00 
+       Ahmedabad              02                   00 
+      Dharamsala              02                   01 
+           Kochi              01                   00 
+************************************************************
+===Statistics===
+1. Toss Winning Stats
+2. Yearwise matches played/won
+3. Citywise Matches played/won
+4. Exit
+Enter a choice: 4
+
+Process finished with exit code 0
