@@ -15,7 +15,6 @@ def toss_Win(team):
                  listtoss.append(total)
              listtoss.append(tosswon)
          return listtoss
-
 #Yearwise matches played/won
 def yearwise_Wonplayed(team):
     listResult = list()
